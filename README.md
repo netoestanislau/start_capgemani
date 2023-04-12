@@ -3,7 +3,7 @@ Programa Start By Capgemini
 
 * Projeto final da trilha Lógica de Programação e Algoritmos III
 
-Na trilha de Lógica de programação vimos desde a parte de arquitetura de computadores a os tipos de linguagens de programação com ênfase ao Java.
+Na trilha de Lógica de programação vimos desde a parte de arquitetura de computadores a os tipos de linguagens de programação com ênfase ao Java e também banco de dados SQL.
 
 No projeto final criamos um APP de lista de tarefas, abordando a orientação a objeto e interface gráfica do NetBeans IDE.
 
