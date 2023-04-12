@@ -7,7 +7,7 @@ Na trilha de Lógica de programação vimos desde a parte de arquitetura de comp
 
 No projeto final criamos um APP de lista de tarefas, abordando a orientação a objeto e interface gráfica do NetBeans IDE.
 
-- Tela de Login
+- Tela principal
 
 ![image](https://user-images.githubusercontent.com/86630795/231492879-34e3e0a6-9ee9-4548-ba7c-1f38a82c5b9a.png)
 
